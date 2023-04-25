@@ -11,3 +11,6 @@ Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/6DoV3IE_R
 
 Q4 - for the fourth question we were asked to activate our breeders (in my case the hedgehogs and the flies) so that they spawned in at random points across the screen. 
 Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/XN14ZnYEj
+
+Q5 - for the fifth question we were asked to activate our breeders (in my case the hedgehogs and the flies) so that they spawned in at random points across the screen and now would die or spawn more until only one sprite class was left
+Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/fks2hFqA6
